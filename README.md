@@ -4,4 +4,6 @@
 
  License: [Attribution-ShareAlike 4.0 International](LICENSE)
 
- 1. [ChatGPT vs Gemini](ChatGPT-vs-Gemini/README.md)
+ ## Tests
+
+ 1. [ChatGPT vs Gemini](ChatGPT-vs-Gemini/README.md) (in progress)
