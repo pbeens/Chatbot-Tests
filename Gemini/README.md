@@ -22,7 +22,7 @@ These were the prompts that I used:
 2) Make it a little larger.
 3) Make the window more rectangular, with a similar h/w ratio as the fretboard.
 4) Make it a little taller to accommodate text later on.
-5) After the window is created, save the window as "bass-guitar-fretboard.png" in the same folder as the file. The CWD is not the same location as the file.
+5) After the window is created, save the window as "bass-guitar-fretboard.png" in the same folder as the file. Note that the CWD is not the same location as the file.
 
 And voilà, it worked!
 
